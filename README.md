@@ -9,3 +9,4 @@ The movie data is from [OMDb](http://www.omdbapi.com) (result data was licensed 
 * `male_names.txt` and `female_names.txt` from [male](http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/nlp/corpora/names/male.txt) and [female](http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/nlp/corpora/names/female.txt) lists via Carnegie-Mellon University.
 * [R Explorations](https://rexplorations.wordpress.com/2015/09/05/simple-outlier-detection-in-r/) for reminder how to use the `outliers` package in R.
 * [r-statistics.co](http://r-statistics.co/Statistical-Tests-in-R.html) for reminder how to implement and parse various statistical tests in R.  
+* [This Stack Overflow answer](http://stackoverflow.com/questions/20689650/how-to-append-rows-to-an-r-data-frame) for answering the best way to append rows of data to a data frame in R.
